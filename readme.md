@@ -1,10 +1,10 @@
-## Laravel Social Login With Socialite
+## Laravel Stripe Payment Gateway Integration
 
 ## About Laravel
 
 Laravel is one of the most known PHP frameworks in the market, used by millions of developers around the world. Moreover, installing Laravel is quite simple as well, and can be done within minutes.
 
-This repository comes with Stripe Payment Gateway Integration in **Laravel 5.5** application by storing user profile data in our MySQL database.
+This repository comes with **Stripe Payment Gateway Integration in Laravel 5.5** application by storing customer payment logs data in our MySQL database.
 
 ## You will need to make sure your server meets the following requirements:
 
@@ -39,15 +39,11 @@ Done!
 
 I currently made this project for personal purposes. I decided to share it here to help anyone with the same needs. If you have any feedback to improve it, feel free to make a suggestion, or open a PR!
 
-The tutorial of the project can be found at [Laravel Social Login With Socialite - Sunny Doshi Blog](https://blog.sunnydoshi.in/2020/05/26/laravel-social-login-with-socialite/)
-
 ## Official Documentation
 
 Documentation for the framework can be found on the [Laravel website](https://laravel.com/docs/5.5).
 
-Documentation for Socialite can be found on the [Laravel website](https://laravel.com/docs/5.5/socialite)
-
-For package: [Check Here](https://github.com/laravel/socialite)
+For package: [Check Here](https://github.com/stripe/stripe-php)
 
 ## License
 
